@@ -3,7 +3,7 @@
     'version': '1.0',
     'summary': 'Module de test CI/CD',
     'description': 'Un module simple pour tester le pipeline CI/CD sur Odoo',
-    'author': 'Mazen',
+    'author': 'Mazen Said ',
     'depends': ['base'],
     'data': [],
     'installable': True,
