@@ -5,4 +5,4 @@ class HelloOdoo(models.Model):
     _description = 'Hello Odoo'
 
     name = fields.Char(string='Name', required=True)
-    message = fields.Text(string='Message', default='Hello from Mazen')
+    message = fields.Text(string='Message', default='Hello Mazen')
